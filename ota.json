@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "format": "HBX1",
+  "rom_version": "OS4.0.7.0.XGNCNXM",
+  "version_code": 1795085847,
+  "codename": "songyuan",
+  "timestamp": 1795085847,
+  "changelog": "HyperOS 4 CN OS4.0.7.0 - VietHoa, GMS, Circle to Search, HyperFCMFix, HyperBox",
+  "orig_filename": "Custom_OTA.zip",
+  "orig_size": 8994447090,
+  "orig_sha256": "990fb4ef7037dd74f9217eb2d3d4ff649ebdd3351472e3b57fc7792d154320b9",
+  "chunk_size": 4194304,
+  "total_chunks": 2145,
+  "parts": [
+    {
+      "name": "Custom_OTA.part01.hbx",
+      "size": 1992294400,
+      "sha256": "8724af495ddfc4cb7e4ef0a4410201520f24b2bbac4a5ed9ebb75757dcd9844e",
+      "url": "https://github.com/tnyfishy/custom-hyperos4/releases/download/v4.0.7.0/Custom_OTA.part01.hbx"
+    },
+    {
+      "name": "Custom_OTA.part02.hbx",
+      "size": 1992294400,
+      "sha256": "6c1ed655f08bc38cfe2fa477d40bbc4258abc10585f99afa52828c0ad75d19c6",
+      "url": "https://github.com/tnyfishy/custom-hyperos4/releases/download/v4.0.7.0/Custom_OTA.part02.hbx"
+    },
+    {
+      "name": "Custom_OTA.part03.hbx",
+      "size": 1992294400,
+      "sha256": "67d7c034b29b7bc3a6c1b4cbf0ae9fe374068465e76da4b2f85ee010aee88b7c",
+      "url": "https://github.com/tnyfishy/custom-hyperos4/releases/download/v4.0.7.0/Custom_OTA.part03.hbx"
+    },
+    {
+      "name": "Custom_OTA.part04.hbx",
+      "size": 1992294400,
+      "sha256": "4f46f8dc6c1eae16c6b4932d240b17adc9632203be010464927400d69077e2b2",
+      "url": "https://github.com/tnyfishy/custom-hyperos4/releases/download/v4.0.7.0/Custom_OTA.part04.hbx"
+    },
+    {
+      "name": "Custom_OTA.part05.hbx",
+      "size": 1025312708,
+      "sha256": "2b5cc364aed48db5ba7f0ebb5309401affa862d0435dc18cd76f19d94ab1baae",
+      "url": "https://github.com/tnyfishy/custom-hyperos4/releases/download/v4.0.7.0/Custom_OTA.part05.hbx"
+    }
+  ]
+}
